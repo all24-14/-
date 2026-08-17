@@ -68,6 +68,10 @@ cd ticket_analysis
 python analyze.py
 ```
 
+> Windows 注意：若 `python` 命令指向 Microsoft Store 的「应用执行别名」（空壳，运行无输出），
+> 请改用完整路径，例如 `C:\Users\20619\anaconda3\python.exe analyze.py`，
+> 或直接双击仓库根目录的 `run.bat`（自动定位 anaconda Python 并运行）。
+
 运行后自动：
 - 在控制台打印异常信号与依据；
 - 在 `output/` 生成 9 张可视化图表（PNG）与 `report.md` 结构化趋势报告。
