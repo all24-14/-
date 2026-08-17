@@ -105,14 +105,14 @@ ticket_analysis/
 
 ### 汇总仪表盘
 
-![汇总仪表盘](output/09_dashboard.png)
+![汇总仪表盘](https://cdn.jsdelivr.net/gh/all24-14/-@main/output/09_dashboard.png)
 
 ### 各维度图表
 
 | 分类分布 | 每日趋势 |
 |:---:|:---:|
-| ![分类分布](output/01_category_distribution.png) | ![每日趋势](output/02_daily_trend.png) |
+| ![分类分布](https://cdn.jsdelivr.net/gh/all24-14/-@main/output/01_category_distribution.png) | ![每日趋势](https://cdn.jsdelivr.net/gh/all24-14/-@main/output/02_daily_trend.png) |
 
 | 处理时长 | 各分类满意度 |
 |:---:|:---:|
-| ![处理时长](output/04_resolution_time.png) | ![满意度](output/05_satisfaction_by_category.png) |
+| ![处理时长](https://cdn.jsdelivr.net/gh/all24-14/-@main/output/04_resolution_time.png) | ![满意度](https://cdn.jsdelivr.net/gh/all24-14/-@main/output/05_satisfaction_by_category.png) |
