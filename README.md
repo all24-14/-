@@ -116,3 +116,11 @@ ticket_analysis/
 | 处理时长 | 各分类满意度 |
 |:---:|:---:|
 | ![处理时长](https://cdn.jsdelivr.net/gh/all24-14/-@main/output/04_resolution_time.png) | ![满意度](https://cdn.jsdelivr.net/gh/all24-14/-@main/output/05_satisfaction_by_category.png) |
+
+| 优先级 × 满意度 | 渠道分布 |
+|:---:|:---:|
+| ![优先级×满意度](https://cdn.jsdelivr.net/gh/all24-14/-@main/output/03_priority_satisfaction.png) | ![渠道分布](https://cdn.jsdelivr.net/gh/all24-14/-@main/output/06_channel_distribution.png) |
+
+| 未解决工单分布 | 满意度评分分布 |
+|:---:|:---:|
+| ![未解决工单](https://cdn.jsdelivr.net/gh/all24-14/-@main/output/07_unresolved.png) | ![满意度评分](https://cdn.jsdelivr.net/gh/all24-14/-@main/output/08_satisfaction_distribution.png) |
